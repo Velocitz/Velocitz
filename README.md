@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Velocitz, Velo or Anthony.
+- 👋 Hi, I’m @Velocitz or Velo.
 - 👀 I’m interested in cibersecurity.
 - 🌱 I’m currently learning microcomputer systems and networks medium grade.
 - 💞️ Pizza is good.
